@@ -49,7 +49,7 @@ namespace CleanArchMvc.Domain.Entities
                 "Invalid price. Price must be greater than or equal to zero.");
             DomainExceptionValidation.When(stock < 0,
                 "Invalid stock. Stock must be greater than or equal to zero.");
-            DomainExceptionValidation.When(image.Length > 250,
+            DomainExceptionValidation.When(image?.Length > 250,
                 "Invalid image name, too long, maximum 250 characters.");
             Name = name;
             Description = description;

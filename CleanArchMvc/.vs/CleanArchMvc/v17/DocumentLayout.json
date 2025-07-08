@@ -18,21 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Pichau\\Desktop\\Workspace\\CleanArch\\CleanArchMvc\\CleanArchMvc.Domain\\Entities\\Product.cs",
-              "RelativeDocumentMoniker": "CleanArchMvc.Domain\\Entities\\Product.cs",
-              "ToolTip": "C:\\Users\\Pichau\\Desktop\\Workspace\\CleanArch\\CleanArchMvc\\CleanArchMvc.Domain\\Entities\\Product.cs",
-              "RelativeToolTip": "CleanArchMvc.Domain\\Entities\\Product.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAmwDIAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T15:36:43.589Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -41,9 +28,22 @@
               "RelativeDocumentMoniker": "CleanArchMvc.Domain.Tests\\ProductUnitTest1.cs",
               "ToolTip": "C:\\Users\\Pichau\\Desktop\\Workspace\\CleanArch\\CleanArchMvc\\CleanArchMvc.Domain.Tests\\ProductUnitTest1.cs",
               "RelativeToolTip": "CleanArchMvc.Domain.Tests\\ProductUnitTest1.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAQwEIAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowDcAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T15:28:25.327Z",
+              "WhenOpened": "2025-07-08T15:48:19.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\Desktop\\Workspace\\CleanArch\\CleanArchMvc\\CleanArchMvc.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "CleanArchMvc.Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\Pichau\\Desktop\\Workspace\\CleanArch\\CleanArchMvc\\CleanArchMvc.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "CleanArchMvc.Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAmwDUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T15:45:57.21Z",
               "EditorCaption": ""
             }
           ]
