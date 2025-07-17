@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Pichau\\Desktop\\Workspace\\CleanArch\\CleanArchMvc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0FA4CE12-D151-4F3D-B3AC-2A9EAE4EC2BB}|CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj|c:\\users\\pichau\\desktop\\workspace\\cleanarch\\cleanarchmvc\\cleanarchmvc.infra.data\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0FA4CE12-D151-4F3D-B3AC-2A9EAE4EC2BB}|CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj|solutionrelative:cleanarchmvc.infra.data\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BD7B5673-4F18-4B29-B89E-66963C2301C5}|CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj|c:\\users\\pichau\\desktop\\workspace\\cleanarch\\cleanarchmvc\\cleanarchmvc.webui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BD7B5673-4F18-4B29-B89E-66963C2301C5}|CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj|solutionrelative:cleanarchmvc.webui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0FA4CE12-D151-4F3D-B3AC-2A9EAE4EC2BB}|CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj|c:\\users\\pichau\\desktop\\workspace\\cleanarch\\cleanarchmvc\\cleanarchmvc.infra.data\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0FA4CE12-D151-4F3D-B3AC-2A9EAE4EC2BB}|CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj|solutionrelative:cleanarchmvc.infra.data\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BD7B5673-4F18-4B29-B89E-66963C2301C5}|CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj|c:\\users\\pichau\\desktop\\workspace\\cleanarch\\cleanarchmvc\\cleanarchmvc.webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD7B5673-4F18-4B29-B89E-66963C2301C5}|CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj|solutionrelative:cleanarchmvc.webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B351BD23-45EC-4687-A01C-9E8F30E8C9B6}|CleanArchMvc.Infra.IoC\\CleanArchMvc.Infra.IoC.csproj|c:\\users\\pichau\\desktop\\workspace\\cleanarch\\cleanarchmvc\\cleanarchmvc.infra.ioc\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B351BD23-45EC-4687-A01C-9E8F30E8C9B6}|CleanArchMvc.Infra.IoC\\CleanArchMvc.Infra.IoC.csproj|solutionrelative:cleanarchmvc.infra.ioc\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Pichau\\Desktop\\Workspace\\CleanArch\\CleanArchMvc\\CleanArchMvc.Infra.Data\\Repositories\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "CleanArchMvc.Infra.Data\\Repositories\\ProductRepository.cs",
-              "ToolTip": "C:\\Users\\Pichau\\Desktop\\Workspace\\CleanArch\\CleanArchMvc\\CleanArchMvc.Infra.Data\\Repositories\\ProductRepository.cs",
-              "RelativeToolTip": "CleanArchMvc.Infra.Data\\Repositories\\ProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA3AAAAAAAAAA==",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Pichau\\Desktop\\Workspace\\CleanArch\\CleanArchMvc\\CleanArchMvc.WebUI\\appsettings.json",
+              "RelativeDocumentMoniker": "CleanArchMvc.WebUI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Pichau\\Desktop\\Workspace\\CleanArch\\CleanArchMvc\\CleanArchMvc.WebUI\\appsettings.json",
+              "RelativeToolTip": "CleanArchMvc.WebUI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-17T22:11:03.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\Desktop\\Workspace\\CleanArch\\CleanArchMvc\\CleanArchMvc.Infra.IoC\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "CleanArchMvc.Infra.IoC\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\Pichau\\Desktop\\Workspace\\CleanArch\\CleanArchMvc\\CleanArchMvc.Infra.IoC\\DependencyInjection.cs",
+              "RelativeToolTip": "CleanArchMvc.Infra.IoC\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T02:17:20.734Z",
+              "WhenOpened": "2025-07-17T22:06:53.598Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Pichau\\Desktop\\Workspace\\CleanArch\\CleanArchMvc\\CleanArchMvc.Infra.Data\\Repositories\\CategoryRepository.cs",
-              "RelativeDocumentMoniker": "CleanArchMvc.Infra.Data\\Repositories\\CategoryRepository.cs",
-              "ToolTip": "C:\\Users\\Pichau\\Desktop\\Workspace\\CleanArch\\CleanArchMvc\\CleanArchMvc.Infra.Data\\Repositories\\CategoryRepository.cs",
-              "RelativeToolTip": "CleanArchMvc.Infra.Data\\Repositories\\CategoryRepository.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAABoAAAA5AAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\Desktop\\Workspace\\CleanArch\\CleanArchMvc\\CleanArchMvc.WebUI\\Program.cs",
+              "RelativeDocumentMoniker": "CleanArchMvc.WebUI\\Program.cs",
+              "ToolTip": "C:\\Users\\Pichau\\Desktop\\Workspace\\CleanArch\\CleanArchMvc\\CleanArchMvc.WebUI\\Program.cs",
+              "RelativeToolTip": "CleanArchMvc.WebUI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T02:05:37.353Z",
+              "WhenOpened": "2025-07-17T22:00:34.078Z",
               "EditorCaption": ""
             }
           ]
